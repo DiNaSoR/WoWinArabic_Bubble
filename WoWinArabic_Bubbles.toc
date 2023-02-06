@@ -1,0 +1,15 @@
+﻿## Interface: 100005
+## Title: WoWinArabic-Bubbles
+## Version: 10.02
+## Notes: The addon displays translated NPC speech bubbles
+## Notes_ar: يعرض الملحق فقاعات خطاب NPC المترجمة
+## Notes_pl: Addon wyświetla przetłumaczone dymki NPC
+## Author: Platine
+## eMail: platine.wow@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: BB_PM, BB_PS
+
+Bubbles_AR.lua
+Arabic_Reshaper.lua
+WoWinArabic_Bubbles.lua
