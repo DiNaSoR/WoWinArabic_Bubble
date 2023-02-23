@@ -318,7 +318,7 @@ local function BB_CheckVars()
      BB_PM["setsize"] = "0";   
   end
   if (not BB_PM["fontsize"] ) then  -- wielkość czcionki
-     BB_PM["fontsize"] = "15";   
+     BB_PM["fontsize"] = "14";   
   end
   if (not BB_PM["sex"] ) then       -- wybór płci wypowiedzi do gracza
      if (player_sex==3) then
@@ -461,7 +461,7 @@ local fontsize = tonumber(BB_PM["fontsize"]);
 if (BB_PM["setsize"]=="1") then
    BBOpis1:SetFont(BB_Font, fontsize);
 else
-   BBOpis1:SetFont(BB_Font, 15);
+   BBOpis1:SetFont(BB_Font, 14);
 end
 BBOpis1:SetText(AS_UTF8reverse("نموذج نص حجم الخط"));       -- przykładowy tekst
 BBOpis1:SetJustifyH("RIGHT");
