@@ -1,9 +1,7 @@
-﻿-- Addon: WoWinArabic-Bubbles (version: 10.02) 2023.02.06
+﻿-- Addon: WoWinArabic-Bubbles (version: 10.2) 2023.11.25
 -- Note: AddOn displays translated Bubbles of NPC in Arabic.
--- الوصف: يعرض AddOn فقاعات خطاب NPC المترجمة باللغة العربية.
--- Opis: AddOn wyświetla przetłumaczone dymki NPC w języku arabskim.
 -- Autor: Platine  (e-mail: platine.wow@gmail.com)
--- Special thanks for DragonArab for helping to create letter reshaping rules.
+-- Contributor: DragonArab - Developed letter reshaping tables and ligatures (http://WoWinArabic.com)
 
 -------------------------------------------------------------------------------------------------------
 
